@@ -19,7 +19,7 @@ class TodoApp extends React.Component {
       },
       {
         id: 3,
-        title: "Deploy to live server",
+        title: "Deploy to live server ***",
         completed: false
       }
     ]
